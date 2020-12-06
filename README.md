@@ -20,7 +20,7 @@
 - Задача: С помошью машинного обучения предсказать выручку аптеки на основе данных о ежедневных продажах за 2 предыдущих года с учетом сезонности и праздничных дней.
 - Модель: fbp.Prophet, метрика: mean_absolute_error
 
-## /seasonality of drug sales - проверка гипотезы о наличии сезонности продаж транквилизаторов `добавить папку`
+## [/seasonality of drug sales][6] - проверка гипотезы о наличии сезонности продаж транквилизаторов
 - Стек: numpy, pandas, seaborn, scipy
 - Данные: с kaggle - https://www.kaggle.com/milanzdravkovic/pharma-sales-data
 - Задача: Проверка гипотезы. Есть мнение, что транквилизаторы продаются лучше в декабре. Проверить, что ЛП из группы *N05B - Psycholeptics drugs, Anxiolytic drugs* имеют повышенные продажи в декабре и это статистически значимы.
@@ -37,3 +37,4 @@
 [3]: https://github.com/koryagin2006/portfolio/tree/main/predictions%20of%20apartment%20prices
 [4]: https://github.com/koryagin2006/portfolio/tree/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%80%D1%8F%D0%B4%D0%B0%D0%BC%D0%B8.%20fbprophet
 [5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
+[6]: https://github.com/koryagin2006/portfolio/blob/main/seasonality%20of%20drug%20sales/seasonality_of_drug_sales.ipynb
