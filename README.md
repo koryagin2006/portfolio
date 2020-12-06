@@ -26,8 +26,14 @@
 - Задача: Проверка гипотезы. Есть мнение, что транквилизаторы продаются лучше в декабре. Проверить, что ЛП из группы *N05B - Psycholeptics drugs, Anxiolytic drugs* имеют повышенные продажи в декабре и это статистически значимы.
 - Описание: Набор данных построен на основе исходного набора данных, состоящего из 600000 транзакционных данных, собранных за 6 лет (период 2014-2019 гг.). С указанием даты и времени продажи, торговой марки фармацевтического препарата и проданного количества, экспортированных из системы точек продаж на индивидуальном уровне. аптека. Выбранная группа препаратов из набора данных (57 препаратов) классифицируется по категориям системы анатомо-терапевтической химической классификации (АТХ).
 
+## [/prediction_of_cardiovascular_disease][5] - Прогноз наличия сердечно-сосудистого заболевания. Бинарная классификация
+- Стек:ML: sklearn, pandas, numpy, API: flask
+- Данные: соревнование - https://mlbootcamp.ru/ru/round/12/sandbox/
+- Задача: предсказать по описанию вакансии является ли она фейком или нет (поле fraudulent). Бинарная классификация
+
 ---
 [1]: https://github.com/koryagin2006/portfolio/tree/main/crawl%20hh%20and%20sj
 [2]: https://github.com/koryagin2006/portfolio/tree/main/mysql_b_apteka
 [3]: https://github.com/koryagin2006/portfolio/tree/main/predictions%20of%20apartment%20prices
 [4]: https://github.com/koryagin2006/portfolio/tree/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%80%D1%8F%D0%B4%D0%B0%D0%BC%D0%B8.%20fbprophet
+[5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
