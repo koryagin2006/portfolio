@@ -15,7 +15,7 @@
 - Задача: построить модель для предсказания цен на недвижимость (квартиры). С помощью полученной модели, предсказать цены для квартир из тестового датасета.
 - Модель: ExtraTreesRegressor, метрика: r2_score
 
-## [/работа с временными рядами. fbprophet][4] - моделирование месячного товарообота аптеки
+## [/pharmacy turnover forecast][4] - моделирование месячного товарообота аптеки
 - Стек: pandas, numpy, fbprophet/ (https://facebook.github.io/prophet/docs/installation.html#python)
 - Задача: С помошью машинного обучения предсказать выручку аптеки на основе данных о ежедневных продажах за 2 предыдущих года с учетом сезонности и праздничных дней.
 - Модель: fbp.Prophet, метрика: mean_absolute_error
@@ -35,6 +35,6 @@
 [1]: https://github.com/koryagin2006/portfolio/tree/main/crawl%20hh%20and%20sj
 [2]: https://github.com/koryagin2006/portfolio/tree/main/mysql_b_apteka
 [3]: https://github.com/koryagin2006/portfolio/tree/main/predictions%20of%20apartment%20prices
-[4]: https://github.com/koryagin2006/portfolio/tree/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%80%D1%8F%D0%B4%D0%B0%D0%BC%D0%B8.%20fbprophet
+[4]: https:https://github.com/koryagin2006/portfolio/tree/main/pharmacy%20turnover%20forecast
 [5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
 [6]: https://github.com/koryagin2006/portfolio/blob/main/seasonality%20of%20drug%20sales/seasonality_of_drug_sales.ipynb
