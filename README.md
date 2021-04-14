@@ -1,19 +1,9 @@
 # Портфолио с работами Корягина А.Н.
 
-## [/crawl hh and sj][1] - Парсинг сайтов о работе hh.ru и superjob.ru
-- Стек: scrapy, MongoDB
-- Задача: Сбор вакансий с сайтов о работе и помещение их в базу данных MongoDB или файл .csv
-
-## [/mysql_b_apteka][2] - последовательный набор sql-запросов для создания MySQL-базы данных
-- Стек: MySQL
-
-Данная база данных представляет собой пример организации интернет-аптеки (учебный проект). В базе хранится информация о наличии товаров (stocks) в разных аптеках, а также о заказах товаров (orders), и из статусах. Также в базе хранятся классификация товаров по категориям и по другим параметрам.
-
-## [/predictions of apartment prices][3] - предсказание цен на квартиры в Москве
-- Стек: sklearn, pandas, numpy
-- Данные: с kaggle - https://www.kaggle.com/c/realestatepriceprediction
-- Задача: С помощью модели, предсказать цены для квартир из тестового датасета.
-- Модель: ExtraTreesRegressor, метрика: r2_score
+## [/job change of data scientists][7] - Потоковая обработка данных. Прогнозирование трудоустройства.
+- Стек: HDFS, Kafka, Cassandra, Spark_ML (LogisticRegression);
+- Данные: соревнование - https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
+- Задача: Прогнозирование на потоке (из Kafka), будет ли кандидат будет работать в компании-нанимателе.
 
 ## [/pharmacy turnover forecast][4] - моделирование месячного товарооборота аптеки
 - Стек: pandas, numpy, fbprophet/ (https://facebook.github.io/prophet/docs/installation.html#python)
@@ -31,6 +21,21 @@
 - Данные: соревнование - https://mlbootcamp.ru/ru/round/12/sandbox/
 - Задача: предсказать по описанию вакансии является ли она фейком или нет (поле fraudulent). Бинарная классификация
 
+## [/crawl hh and sj][1] - Парсинг сайтов о работе hh.ru и superjob.ru
+- Стек: scrapy, MongoDB
+- Задача: Сбор вакансий с сайтов о работе и помещение их в базу данных MongoDB или файл .csv
+
+## [/predictions of apartment prices][3] - предсказание цен на квартиры в Москве
+- Стек: sklearn, pandas, numpy
+- Данные: с kaggle - https://www.kaggle.com/c/realestatepriceprediction
+- Задача: С помощью модели, предсказать цены для квартир из тестового датасета.
+- Модель: ExtraTreesRegressor, метрика: r2_score
+
+## [/mysql_b_apteka][2] - последовательный набор sql-запросов для создания MySQL-базы данных
+- Стек: MySQL
+
+Данная база данных представляет собой пример организации интернет-аптеки (учебный проект). В базе хранится информация о наличии товаров (stocks) в разных аптеках, а также о заказах товаров (orders), и из статусах. Также в базе хранятся классификация товаров по категориям и по другим параметрам.
+
 ---
 [1]: https://github.com/koryagin2006/portfolio/tree/main/crawl%20hh%20and%20sj
 [2]: https://github.com/koryagin2006/portfolio/tree/main/mysql_b_apteka
@@ -38,3 +43,4 @@
 [4]: https:https://github.com/koryagin2006/portfolio/tree/main/pharmacy%20turnover%20forecast
 [5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
 [6]: https://github.com/koryagin2006/portfolio/blob/main/seasonality%20of%20drug%20sales/seasonality_of_drug_sales.ipynb
+[7]: https://github.com/koryagin2006/portfolio/blob/main/job%20change%20of%20data%20scientists/project_enrollees.ipynb
