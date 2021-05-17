@@ -1,5 +1,10 @@
 # Портфолио с работами Корягина А.Н.
 
+## [/Pharmacy_recommendation_system][8] - Проект рекомендательной системы для аптечной сети
+ - Стек: HDFS, Cassandra, Spark_ML (Word2Vec, ALS, Kmeans);
+ - Данные: данные продаж аптечной сети за 11 месяцев
+ - Задача: Построение рекомендательной системы, делающей предскзание товара на основе похожих покупателей и похожих товаров (2 метода). А также кластеризация товаров на классы по контексту покупок.
+
 ## [/job change of data scientists][7] - Потоковая обработка данных. Прогнозирование трудоустройства.
 - Стек: HDFS, Kafka, Cassandra, Spark_ML (LogisticRegression);
 - Данные: соревнование - https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
@@ -44,3 +49,4 @@
 [5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
 [6]: https://github.com/koryagin2006/portfolio/blob/main/seasonality%20of%20drug%20sales/seasonality_of_drug_sales.ipynb
 [7]: https://github.com/koryagin2006/portfolio/blob/main/job%20change%20of%20data%20scientists/project_enrollees.ipynb
+[8]: https://github.com/koryagin2006/Pharmacy_recommendation_system/
