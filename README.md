@@ -45,7 +45,7 @@
 [1]: https://github.com/koryagin2006/portfolio/tree/main/crawl%20hh%20and%20sj
 [2]: https://github.com/koryagin2006/portfolio/tree/main/mysql_b_apteka
 [3]: https://github.com/koryagin2006/portfolio/tree/main/predictions%20of%20apartment%20prices
-[4]: https:https://github.com/koryagin2006/portfolio/tree/main/pharmacy%20turnover%20forecast
+[4]: https://github.com/koryagin2006/portfolio/blob/main/pharmacy%20turnover%20forecast/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D0%A2%D0%9E%20%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8%20%E2%84%96XX.ipynb
 [5]: https://github.com/koryagin2006/prediction_of_cardiovascular_disease
 [6]: https://github.com/koryagin2006/portfolio/blob/main/seasonality%20of%20drug%20sales/seasonality_of_drug_sales.ipynb
 [7]: https://github.com/koryagin2006/portfolio/blob/main/job%20change%20of%20data%20scientists/project_enrollees.ipynb
